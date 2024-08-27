@@ -6,7 +6,7 @@ Moverse a esa rama
 Realizar cambios a un proyecto en esa nueva rama
 Hacer merge de ramas
 Crear un repositorio remoto en github
-Subir el repositorio local al repositorio remoto
+Subir el repositorio local al repositorio remoto.
 Se nos entrega un proyecto no terminado y con errores 
 Se nos pide realizar cambios en una nueva rama y cuando se haya finalizado la realización de cambios se debe fusionar la rama nueva con la rama principal. 
 
